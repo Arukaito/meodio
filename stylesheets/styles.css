@@ -3,8 +3,8 @@
 body{background:url('https://photos-3.dropbox.com/thumb/AADg1EjB8hBTVuDbcwMYVarS9fzKwzWdn47x60YlILHbrg/90798659/png/200x200/1/_/0/4/dark_Tire.png/or7d5yt1vrk4n8u/coSwtP0gVz/dark_Tire.png') #333;}
 
 #container {
-  margin:65px auto;
-  width:85px;
+  margin:105px auto;
+  width:135px;
 }
 
 #cat div{
@@ -16,7 +16,7 @@ body{background:url('https://photos-3.dropbox.com/thumb/AADg1EjB8hBTVuDbcwMYVarS
 
 #speech {
   position:relative;
-  width:100px;
+  width:100px auto;
 	height:40px auto;
 	margin:10px -80px;
 	text-align:center;
