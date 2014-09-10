@@ -208,7 +208,7 @@ span, li{ font-family: 'Lato', sans-serif; }
 }
 
 .plane .p-message{
-  position:absolute;
+  position:fixed;
   margin: auto;
   width: 50%;
   height: 100%;
