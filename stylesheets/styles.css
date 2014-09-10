@@ -308,3 +308,37 @@ footer {
   padding: 1em 3em 2em 3em;
   border-top: 1px solid darkblue;
  }
+ 
+ .social li {
+  display: inline-block;
+  padding-right: 2em;
+ }
+
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid lightblue;
+}
+
+a:hover {
+  color: orange;
+  border-bottom: 1px solid;
+  @include transition (all .5s ease-in-out);
+}
+
+img {
+  display:block;
+  margin:auto; 
+  margin-top: 10%;
+  margin-bottom: -2%;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border: 7px solid white;
+  border-bottom-width: 2px;
+  }
+
+img:hover {
+  color: red;
+  @include transition (all .5s ease-in-out);
+}
