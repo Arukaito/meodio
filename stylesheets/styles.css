@@ -15,8 +15,9 @@ body{background:url('https://photos-3.dropbox.com/thumb/AADg1EjB8hBTVuDbcwMYVarS
 
 
 #speech {
-  position:relative;
-    left: -70px;
+  position:fixed;
+    top: 30px;
+    right: 5px;
   width:180px;
 	height:40px;
 	margin:10px -80px;
