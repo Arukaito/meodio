@@ -20,11 +20,27 @@
   <body>
 
   
+  <script type="text/javascript">
+var textarray = [
+ "Probando 1",
+ "hello",
+ "how r u",
+ "where r u"    // No comma after last entry
+];
+
+function RndText() {
+  var rannum= Math.floor(Math.random()*textarray.length);
+  document.getElementById('ShowText').innerHTML=textarray[rannum];
+}
+onload = function() { RndText(); }
+
+</script>
+  
   <div id="container">
   <div id="cat">
   <div></div></div>
   
-  <div id="speech">meow
+  <div id="speech"><div id="ShowText"></div>
     <li></li><div></div>
   </body>
 </html>
