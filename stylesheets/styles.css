@@ -450,7 +450,7 @@ span, li{ font-family: 'Lato', sans-serif; }
 }
 
 footer {
-  background-color: #999;
+  background-color: #ACF9E5;
   bottom: 0;
   left: 0;
   padding: 20px 0;
@@ -507,3 +507,11 @@ a.btn.btn-blue {
 		border-color: rgba(0,0,0,0.9);
 	}
 
+#text1{
+  font: 4em 'Reenie Beanie', cursive;
+  color:#000;
+  font-weight:800;
+  text-shadow:
+    0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 6px rgba(255,255,255,0.3);
+}
