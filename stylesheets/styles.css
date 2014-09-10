@@ -17,7 +17,7 @@ body{background:url('https://photos-3.dropbox.com/thumb/AADg1EjB8hBTVuDbcwMYVarS
 #speech {
   position:top;
   width:100px;
-	height:40px auto;
+	height:40px;
 	margin:10px -80px;
 	text-align:center;
 	background:#8bae21;	
