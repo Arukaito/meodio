@@ -234,10 +234,10 @@ span, li{ font-family: 'Lato', sans-serif; }
 
 .plane .p-message ul li{
   float: right;
-  height: 80px;
+  height: auto;
   background: #FFF;
   width: auto;
-  text-align: left;
+  text-align: center;
   line-height: 2.85em;
   font-weight: 600;
   text-transform: uppercase;
