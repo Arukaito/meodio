@@ -454,7 +454,7 @@ footer {
   bottom: 0;
   left: 0;
   padding: 20px 0;
-  position: bottom;
+  position: fixed;
   right: 0;
   text-align: center;
 }
@@ -508,7 +508,7 @@ a.btn.btn-blue {
 	}
 
 #text1{
-  font: 4em 'Reenie Beanie', cursive;
+  font: 2em 'Reenie Beanie', cursive;
   color:#000;
   font-weight:800;
   text-shadow:
