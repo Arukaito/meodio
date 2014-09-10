@@ -450,10 +450,11 @@ span, li{ font-family: 'Lato', sans-serif; }
 }
 
 footer {
+  width: 100%;
+  display: inline-block;
+  margin: 2em 0;
+  height: 70px;
   background-color: #999;
-  bottom: 0;
-  left: 0;
-  padding: 20px 0;
   position: fixed;
   right: 0;
   text-align: center;
