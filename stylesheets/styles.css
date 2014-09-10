@@ -217,7 +217,7 @@ span, li{ font-family: 'Lato', sans-serif; }
 
 .plane .p-message .rope{
   display: block;
-  position:absolute;
+  position:fixed;
   border: 1px solid #333;
   left: 90%;
   bottom: 50%;
